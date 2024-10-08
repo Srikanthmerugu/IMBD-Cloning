@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import Provider from "./Provider";
 import Navbar from "@/components/Navbar";
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -17,7 +18,7 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <Provider>
         <Header />
-        <Navbar/>
+        {/* <Navbar/> */}
 
 
         {children}

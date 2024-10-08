@@ -1,7 +1,9 @@
+import Footer from '@/components/Footer'
 import React from 'react'
 
 const page = () => {
   return (
+    <div>
     <div className='max-w-6xl mx-auto p-3 space-y-4 text-justify'>
         <h1 className='text-2xl font-medium text-amber-500'>About</h1>
         <p>IMDb (Internet Movie Database) is an extensive online database of information related to films, television programs, home videos, video games, and streaming content online. It includes details about cast, production crew, plot summaries, trivia, ratings, reviews, and more. Here’s a detailed breakdown of the various aspects you can find on </p>
@@ -57,6 +59,8 @@ Quotes: Memorable quotes from the movie.
 Related Content:
 
 </p>
+    </div>
+    <Footer />
     </div>
   )
 }
