@@ -3,10 +3,10 @@
 This project is a clone of the IMDB website, allowing users to search for movies and view relevant details. It's built with **Next.js** and **Tailwind CSS**, integrating with the **OMDB API** for fetching movie data.
 
 ## 🔥 Live Demo
-![Screenshot 2024-10-08 122055](https://github.com/user-attachments/assets/d2f5b4e5-93da-4971-bd2f-2132242a749c)
+![Screenshot 2024-10-08 122055](https://github.com/user-attachments/assets/d2f5b4e5-93da-4971-bd2f-2132242a749c) ![Screenshot 2024-10-08 122133](https://github.com/user-attachments/assets/2a676650-30f5-4ca2-a94d-4f904b179b3a)
 
-*small screen*
-![Screenshot 2024-10-08 122133](https://github.com/user-attachments/assets/2a676650-30f5-4ca2-a94d-4f904b179b3a)
+
+
 
 
 
